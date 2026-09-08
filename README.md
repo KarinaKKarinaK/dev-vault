@@ -51,9 +51,10 @@ that actually earn their place.
 
 ## Learning
 
-| Repo | What it is |
+| Resource | What it is |
 | --- | --- |
 | [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Learn it. Build it. Ship it for others. AI engineering fundamentals from the ground up. |
+| [Language Model Builder](https://languagemodelbuilder.com/) | Free Mac app that walks you through building a small language model from scratch: tokenizer, data, pre-training, fine-tuning, then chat with your own model. |
 
 ## Robotics
 
