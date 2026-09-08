@@ -60,6 +60,7 @@ or a stack (`rust`, `python`, `vanilla-js`).
 | --- | --- | --- |
 | [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Learn it. Build it. Ship it for others. AI engineering fundamentals from the ground up. | `learning` `ai-engineering` `fundamentals` `python` |
 | [Language Model Builder](https://languagemodelbuilder.com/) | Free Mac app that walks you through building a small language model from scratch: tokenizer, data, pre-training, fine-tuning, then chat with your own model. | `learning` `llm` `from-scratch` `mac-app` `fine-tuning` |
+| [A GitHub profile that generates itself](https://agreeable-credit-859.notion.site/A-GitHub-profile-that-generates-itself-3abedfe9a65a81e4afc9daed90cb4e7e) | Guide to a self-generating profile README: ASCII portrait, stats drawn by your own repo from the GraphQL API, SMIL animation, no third-party widgets. Code at [andriidrok1/andriidrok1](https://github.com/andriidrok1/andriidrok1). | `github-profile` `readme` `svg` `smil` `self-generating` `guide` |
 
 ## Robotics
 
