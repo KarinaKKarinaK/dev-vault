@@ -31,6 +31,8 @@ or a stack (`rust`, `python`, `vanilla-js`).
 | [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent memory for Claude Code sessions. Compresses context and carries knowledge across sessions. | `claude` `memory` `context` `persistence` |
 | [ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | `claude` `skills` `yagni` `minimalism` `anti-bloat` |
 | [i-have-adhd](https://github.com/ayghri/i-have-adhd) | A skill to stop your coding agent from burying the answer. ADHD-friendly output. | `claude` `skills` `output-format` `adhd` `readability` |
+| [adhd](https://github.com/uditakhourii/adhd) | Tree-of-thought skill for coding agents: fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens survivors. Built on the Claude and Codex Agent SDK. | `claude` `skills` `tree-of-thought` `creativity` `agent-sdk` |
+| [cwc-long-running-agents](https://github.com/anthropics/cwc-long-running-agents) | Anthropic's harness primitives for long-running agents: default-FAIL contracts, fresh-context evaluator, agent-maintained handoff, as readable hooks and a subagent. | `claude` `agents` `harness` `hooks` `long-running` `official` |
 
 ## Agents and LLM tooling
 
@@ -41,6 +43,20 @@ or a stack (`rust`, `python`, `vanilla-js`).
 | [nanoclaw](https://github.com/nanocoai/nanoclaw) | Lightweight OpenClaw alternative that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail. Memory and scheduled jobs built in. | `agents` `containers` `messaging` `typescript` `scheduled-jobs` |
 | [lacp](https://github.com/0xNyk/lacp) | Local-first policy, evidence, memory, and recovery controls for Claude, Codex, Hermes, and other CLI coding agents. | `agents` `policy` `local-first` `safety` `recovery` |
 | [rtk](https://github.com/rtk-ai/rtk) | CLI proxy that cuts LLM token consumption by 60 to 90 percent on common dev commands. Single Rust binary, zero dependencies. | `token-cost` `cli` `proxy` `rust` `optimization` |
+| [gbrain](https://github.com/garrytan/gbrain) | Garry Tan's opinionated OpenClaw/Hermes agent brain. Running on my Mac mini as an always-on agent via Tailscale. | `agents` `agent-brain` `always-on` `typescript` |
+
+## LLMs: training and inference
+
+| Repo | What it is | Keywords |
+| --- | --- | --- |
+| [unsloth](https://github.com/unslothai/unsloth) | Local UI to run and train LLMs and diffusion models. GGUF, MLX, Qwen, DeepSeek, Gemma, FLUX and more. | `llm` `fine-tuning` `local` `training` `gguf` `mlx` |
+| [airllm](https://github.com/lyogavin/airllm) | 70B model inference on a single 4GB GPU. | `llm` `inference` `low-vram` `optimization` `python` |
+
+## Writing
+
+| Repo | What it is | Keywords |
+| --- | --- | --- |
+| [no-ai-slop](https://github.com/petergyang/no-ai-slop) | Removes 20+ patterns of AI slop from any piece of writing. | `writing` `ai-slop` `editing` `python` |
 
 ## Terminal and systems
 
