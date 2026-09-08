@@ -44,6 +44,14 @@ or a stack (`rust`, `python`, `vanilla-js`).
 | [lacp](https://github.com/0xNyk/lacp) | Local-first policy, evidence, memory, and recovery controls for Claude, Codex, Hermes, and other CLI coding agents. | `agents` `policy` `local-first` `safety` `recovery` |
 | [rtk](https://github.com/rtk-ai/rtk) | CLI proxy that cuts LLM token consumption by 60 to 90 percent on common dev commands. Single Rust binary, zero dependencies. | `token-cost` `cli` `proxy` `rust` `optimization` |
 | [gbrain](https://github.com/garrytan/gbrain) | Garry Tan's opinionated OpenClaw/Hermes agent brain. Running on my Mac mini as an always-on agent via Tailscale. | `agents` `agent-brain` `always-on` `typescript` |
+| [openwhispr](https://github.com/OpenWhispr/openwhispr) | Voice-command AI agent beyond dictation: local Whisper or NVIDIA Parakeet, edits text in place, meeting transcription with on-device speaker ID, MCP server. Hotkey, talk, text lands at your cursor. No cloud unless you opt in. MIT. | `voice` `dictation` `speech-to-text` `local-first` `mcp` |
+
+## Knowledge graphs
+
+| Repo | What it is | Keywords |
+| --- | --- | --- |
+| [utopia](https://github.com/deeplethe/utopia) | Open source enterprise world model as a Rust binary and Postgres: ingests PDFs, resolves entities, gives every fact a validity interval. Corrections close and link rather than overwrite. Reasoning in temporal Datalog. Apache-2.0. | `knowledge-graphs` `ontology` `bitemporal` `datalog` `rust` |
+| [knowledge_graph](https://github.com/rahulnyk/knowledge_graph) | Converts any text corpus to a knowledge graph: chunks the document, asks a 7B model which concepts relate, renders a force-directed network with pyvis, ranks concepts via networkx degree and community detection. MIT. | `knowledge-graphs` `graph-rag` `llm` `pyvis` `python` |
 
 ## LLMs: training and inference
 
@@ -82,7 +90,9 @@ or a stack (`rust`, `python`, `vanilla-js`).
 
 | Repo | What it is | Keywords |
 | --- | --- | --- |
-| [robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python) | Peter Corke's robotics toolbox. Kinematics, dynamics, trajectory generation, and manipulator models in Python. | `robotics` `kinematics` `dynamics` `python` `manipulators` |
+| [robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python) | Peter Corke's robotics toolbox. Kinematics, dynamics, IK plus Jacobians, motion planning, localization and SLAM, 50+ robot models (Franka, UR, Kinova, Puma). Code written to be read, so you can open the implementation and learn. | `robotics` `kinematics` `dynamics` `slam` `python` `manipulators` |
+| [Modern Robotics course](https://hades.mech.northwestern.edu/index.php/Modern_Robotics) | The Lynch and Park textbook free online, with the full video course: six courses from robot motion foundations through manipulation, wheeled mobile robots, and a capstone. Also on [Coursera](https://www.coursera.org/specializations/modernrobotics), reference code at [NxRLab/ModernRobotics](https://github.com/NxRLab/ModernRobotics). | `robotics` `course` `kinematics` `dynamics` `textbook` `free` |
+| [MATLAB and Simulink Robotics Arena](https://www.youtube.com/playlist?list=PLn8PRpmsu08qVJayVibu8Yr0uYCwWkLVP) | MathWorks' free robotics education playlist on real platforms: navigation with encoders, obstacle detection with IR sensors, vision-based autonomy, motor tuning, virtual world simulation, driver vs autonomous control. | `robotics` `course` `matlab` `simulink` `sensors` `free` |
 
 ## Adding entries
 
