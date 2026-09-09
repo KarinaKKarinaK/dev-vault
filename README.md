@@ -45,6 +45,7 @@ or a stack (`rust`, `python`, `vanilla-js`).
 | [rtk](https://github.com/rtk-ai/rtk) | CLI proxy that cuts LLM token consumption by 60 to 90 percent on common dev commands. Single Rust binary, zero dependencies. | `token-cost` `cli` `proxy` `rust` `optimization` |
 | [gbrain](https://github.com/garrytan/gbrain) | Garry Tan's opinionated OpenClaw/Hermes agent brain. Running on my Mac mini as an always-on agent via Tailscale. | `agents` `agent-brain` `always-on` `typescript` |
 | [openwhispr](https://github.com/OpenWhispr/openwhispr) | Voice-command AI agent beyond dictation: local Whisper or NVIDIA Parakeet, edits text in place, meeting transcription with on-device speaker ID, MCP server. Hotkey, talk, text lands at your cursor. No cloud unless you opt in. MIT. | `voice` `dictation` `speech-to-text` `local-first` `mcp` |
+| [chopin](https://github.com/githubnext/chopin) | GitHub Next research prototype: people and repo-grounded agents co-author durable documents (plans, specs, RFCs, decision records). The agent reads the repo, proposes changes, and asks the team when code cannot settle a choice. Experimental, self-hosted. | `agents` `planning` `co-authoring` `specs` `github-next` |
 
 ## Knowledge graphs
 
