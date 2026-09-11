@@ -78,6 +78,10 @@ or a stack (`rust`, `python`, `vanilla-js`).
 | Repo | What it is | Keywords |
 | --- | --- | --- |
 | [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Modern finance terminal: market analytics, investment research, and economic data tools for data-driven decisions. | `finance` `quant` `market-data` `terminal` `c++` |
+| [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Production-grade Rust-native trading engine with a deterministic event-driven architecture. Backtest and live trade from the same strategy code. | `quant` `trading-engine` `backtesting` `event-driven` `rust` |
+| [Kronos](https://github.com/shiyu-coder/Kronos) | A foundation model for the language of financial markets. | `quant` `foundation-model` `time-series` `ml` `python` |
+| [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Personal trading agent from HKU data science lab: describe intent, the agent trades. | `quant` `agents` `trading` `llm` `python` |
+| [skfolio](https://github.com/skfolio/skfolio) | Portfolio optimization built on top of scikit-learn: risk models, allocation, cross-validation for portfolios. | `quant` `portfolio-optimization` `scikit-learn` `risk` `python` |
 
 ## Learning
 
