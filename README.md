@@ -18,6 +18,16 @@ or a stack (`rust`, `python`, `vanilla-js`).
 | [vanta](https://github.com/tengbao/vanta) | Animated 3D website backgrounds, three.js wrapped WebGL in about five lines of code. | `3d` `backgrounds` `three-js` `webgl` |
 | [react-bits](https://github.com/DavidHDev/react-bits) | 130+ animated React components. Text effects, backgrounds, interactions. Great to port to vanilla too. | `react` `components` `text-effects` `animation` |
 | [headroom.js](https://github.com/WickyNilliams/headroom.js) | Hide the header on scroll down, reveal on scroll up. Tiny, dependency free, does one thing well. | `header` `scroll` `navbar` `vanilla-js` |
+| [originkit](https://github.com/vellum-ai/originkit) | Free library of 50 animated components, browsable and importable via MCP. | `components` `animation` `mcp` `typescript` |
+| [img2threejs](https://github.com/img2threejs/img2threejs) | Rebuilds the object in a reference image as a code-only, procedural, animation-ready Three.js model. Token-efficient image-to-3D. | `3d` `three-js` `image-to-3d` `procedural` `python` |
+| [awesome-design-md](https://github.com/voltagent/awesome-design-md) | DESIGN.md files distilled from popular brand design systems. Drop one into your project and coding agents generate a matching UI. | `design-systems` `ai-context` `agents` `curated` |
+
+## Design tools
+
+| Resource | What it is | Keywords |
+| --- | --- | --- |
+| [Ditther](https://ditther.com/) | Free browser image effects editor, 75+ effects: dither, halftone, ASCII art, pixel art, voxel graphics. No install. | `design-tools` `image-effects` `dither` `ascii-art` `browser` |
+| [Pryzm](https://pryzm.design/) | Visual studio for designers: original backgrounds and textures for sites and templates, generated in the browser in seconds. | `design-tools` `backgrounds` `textures` `browser` |
 
 ## Claude Code and skills
 
@@ -33,6 +43,8 @@ or a stack (`rust`, `python`, `vanilla-js`).
 | [i-have-adhd](https://github.com/ayghri/i-have-adhd) | A skill to stop your coding agent from burying the answer. ADHD-friendly output. | `claude` `skills` `output-format` `adhd` `readability` |
 | [adhd](https://github.com/uditakhourii/adhd) | Tree-of-thought skill for coding agents: fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens survivors. Built on the Claude and Codex Agent SDK. | `claude` `skills` `tree-of-thought` `creativity` `agent-sdk` |
 | [cwc-long-running-agents](https://github.com/anthropics/cwc-long-running-agents) | Anthropic's harness primitives for long-running agents: default-FAIL contracts, fresh-context evaluator, agent-maintained handoff, as readable hooks and a subagent. | `claude` `agents` `harness` `hooks` `long-running` `official` |
+| [skills (Emil Kowalski)](https://github.com/emilkowalski/skills) | Agent skills for designers and engineers, from the maker of sonner and vaul. Taste as markdown. | `skills` `design` `animation` `taste` |
+| [impeccable](https://github.com/pbakaus/impeccable) | The design language that makes your AI harness better at design. Running it as a skill in my setup. | `skills` `design` `harness` `frontend` |
 
 ## Agents and LLM tooling
 
@@ -72,6 +84,7 @@ or a stack (`rust`, `python`, `vanilla-js`).
 | Repo | What it is | Keywords |
 | --- | --- | --- |
 | [rmux](https://github.com/Helvesec/rmux) | Universal Rust multiplexer with a typed SDK. Drive any CLI or TUI app from code. Native on Linux, macOS, Windows. | `terminal` `multiplexer` `tui` `rust` `sdk` |
+| [playwright-cli](https://github.com/microsoft/playwright-cli) | CLI for common Playwright actions: record and generate test code, inspect selectors, take screenshots. | `testing` `browser-automation` `cli` `screenshots` |
 
 ## Quant and finance
 
@@ -82,6 +95,7 @@ or a stack (`rust`, `python`, `vanilla-js`).
 | [Kronos](https://github.com/shiyu-coder/Kronos) | A foundation model for the language of financial markets. | `quant` `foundation-model` `time-series` `ml` `python` |
 | [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Personal trading agent from HKU data science lab: describe intent, the agent trades. | `quant` `agents` `trading` `llm` `python` |
 | [skfolio](https://github.com/skfolio/skfolio) | Portfolio optimization built on top of scikit-learn: risk models, allocation, cross-validation for portfolios. | `quant` `portfolio-optimization` `scikit-learn` `risk` `python` |
+| [hummingbot](https://github.com/hummingbot/hummingbot) | Open source framework for building and deploying high-frequency crypto trading bots. | `quant` `crypto` `hft` `market-making` `python` |
 
 ## Learning
 
