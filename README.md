@@ -75,6 +75,7 @@ or a stack (`rust`, `python`, `vanilla-js`).
 | [knowledge_graph](https://github.com/rahulnyk/knowledge_graph) | Converts any text corpus to a knowledge graph: chunks the document, asks a 7B model which concepts relate, renders a force-directed network with pyvis, ranks concepts via networkx degree and community detection. MIT. | `knowledge-graphs` `graph-rag` `llm` `pyvis` `python` |
 | [graphify](https://github.com/Graphify-Labs/graphify) | Turns any codebase, with docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex: local deterministic AST parsing, every edge explained, no vector store. | `knowledge-graphs` `codebase` `skills` `ast` `python` |
 | [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Graphs that teach over graphs that impress: turn any code into an interactive knowledge graph you can explore, search, and question. Works with Claude Code, Codex, Cursor, Gemini CLI. | `knowledge-graphs` `codebase` `skills` `visualization` `learning` |
+| [SSTorytime](https://github.com/markburgess/SSTorytime) | Mark Burgess' semantic spacetime story graph database library over PostgreSQL. Knowledge as process-ordered narrative, from the author of promise theory. | `knowledge-graphs` `semantic-spacetime` `postgresql` `go` |
 
 ## Quant and finance
 
