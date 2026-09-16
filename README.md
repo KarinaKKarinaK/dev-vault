@@ -34,6 +34,7 @@ or a stack (`rust`, `python`, `vanilla-js`).
 | [openclaude](https://github.com/Gitlawb/openclaude) | Open source coding-agent CLI for cloud and local model providers. Runs anywhere, uses anything. | `agents` `coding-agent` `cli` `local-models` |
 | [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Free MIT AI gateway: one endpoint, 352 providers, 1200+ models. Works with Claude Code, Codex, Cursor. Quota-aware auto-fallback, token compression, MCP/A2A. | `gateway` `routing` `models` `fallback` `token-cost` |
 | [Scrapling](https://github.com/d4vinci/Scrapling) | Adaptive web scraping framework that handles everything from a single request to a full-scale crawl. | `scraping` `crawling` `data-collection` `python` |
+| [hyperresearch](https://github.com/jordan-gibbs/hyperresearch) | Agent-driven research knowledge base: agents collect, search, and synthesize web research into a persistent, searchable wiki. | `agents` `research` `wiki` `knowledge-base` `python` |
 
 ## Robotics
 
@@ -50,7 +51,7 @@ or a stack (`rust`, `python`, `vanilla-js`).
 | [skills](https://github.com/anthropics/skills) | Anthropic's official skills repo. frontend-design lives here. | `claude` `skills` `frontend-design` `official` |
 | [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | Curated list of Claude skills, resources, and tools for customizing Claude workflows. | `claude` `skills` `awesome-list` `curated` |
 | [superpowers](https://github.com/obra/superpowers) | Skill marketplace for Claude Code: brainstorming, planning, TDD, debugging, and more. | `claude` `skills` `tdd` `planning` `marketplace` |
-| [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | UI/UX ruleset skill that sharpens Claude's design taste before it writes any frontend. | `claude` `skills` `design-rules` `frontend` |
+| [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | UI/UX ruleset skill that sharpens Claude's design taste before it writes any frontend. Install: [skills.sh](https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill). | `claude` `skills` `design-rules` `frontend` |
 | [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) | Self-learning for Claude Code: captures corrections and preferences, syncs them to CLAUDE.md. | `claude` `memory` `self-learning` `feedback` |
 | [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent memory for Claude Code sessions. Compresses context and carries knowledge across sessions. | `claude` `memory` `context` `persistence` |
 | [ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | `claude` `skills` `yagni` `minimalism` `anti-bloat` |
@@ -61,6 +62,10 @@ or a stack (`rust`, `python`, `vanilla-js`).
 | [impeccable](https://github.com/pbakaus/impeccable) | The design language that makes your AI harness better at design. Running it as a skill in my setup. | `skills` `design` `harness` `frontend` |
 | [taste-skill](https://github.com/leonxlnx/taste-skill) | Gives your AI good taste. Stops it from generating boring, generic slop. | `skills` `design` `taste` `anti-slop` |
 | [academic-research-skills](https://github.com/imbad0202/academic-research-skills) | Academic research skills for Claude Code: research, write, review, revise, finalize. | `skills` `research` `academic` `writing` |
+| [stop-slop](https://github.com/hardikpandya/stop-slop) | A skill file for removing AI tells from prose. Install: [skills.sh](https://skills.sh/hardikpandya/stop-slop). | `skills` `writing` `anti-slop` `prose` |
+| [humanizer](https://github.com/blader/humanizer) | Agent skill that removes signs of AI-generated writing from text. Install: [skills.sh](https://skills.sh/blader/humanizer). | `skills` `writing` `anti-slop` `humanize` |
+| [diagram-design](https://github.com/cathrynlavery/diagram-design) | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML plus SVG, no shadows, no Mermaid slop. Install: [skills.sh](https://skills.sh/cathrynlavery/diagram-design). | `skills` `diagrams` `svg` `editorial` |
+| [frontend-slides](https://github.com/zarazhangrui/frontend-slides) | Beautiful slides on the web using a coding agent's frontend skills. Install: [skills.sh](https://skills.sh/zarazhangrui/frontend-slides). | `skills` `slides` `presentations` `frontend` |
 
 ## Knowledge graphs
 
@@ -69,6 +74,7 @@ or a stack (`rust`, `python`, `vanilla-js`).
 | [utopia](https://github.com/deeplethe/utopia) | Open source enterprise world model as a Rust binary and Postgres: ingests PDFs, resolves entities, gives every fact a validity interval. Corrections close and link rather than overwrite. Reasoning in temporal Datalog. Apache-2.0. | `knowledge-graphs` `ontology` `bitemporal` `datalog` `rust` |
 | [knowledge_graph](https://github.com/rahulnyk/knowledge_graph) | Converts any text corpus to a knowledge graph: chunks the document, asks a 7B model which concepts relate, renders a force-directed network with pyvis, ranks concepts via networkx degree and community detection. MIT. | `knowledge-graphs` `graph-rag` `llm` `pyvis` `python` |
 | [graphify](https://github.com/Graphify-Labs/graphify) | Turns any codebase, with docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex: local deterministic AST parsing, every edge explained, no vector store. | `knowledge-graphs` `codebase` `skills` `ast` `python` |
+| [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Graphs that teach over graphs that impress: turn any code into an interactive knowledge graph you can explore, search, and question. Works with Claude Code, Codex, Cursor, Gemini CLI. | `knowledge-graphs` `codebase` `skills` `visualization` `learning` |
 
 ## Quant and finance
 
@@ -100,6 +106,15 @@ or a stack (`rust`, `python`, `vanilla-js`).
 | [playwright-cli](https://github.com/microsoft/playwright-cli) | CLI for common Playwright actions: record and generate test code, inspect selectors, take screenshots. | `testing` `browser-automation` `cli` `screenshots` |
 | [invidious](https://github.com/iv-org/invidious) | Alternative front-end to YouTube: lightweight, private, no ads or tracking. | `youtube` `privacy` `frontend` `self-hosted` |
 
+## macOS
+
+| Repo | What it is | Keywords |
+| --- | --- | --- |
+| [boring.notch](https://github.com/TheBoredTeam/boring.notch) | Turns the MacBook notch into a dynamic island: music controls, and more. | `macos` `notch` `menu-bar` `swift` |
+| [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | Free and open source macOS menu bar toolkit. | `macos` `menu-bar` `toolkit` `swift` |
+| [Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager: hide, show, and arrange menu bar items. | `macos` `menu-bar` `manager` `swift` |
+| [stats](https://github.com/exelban/stats) | macOS system monitor in the menu bar: CPU, GPU, memory, network, sensors. | `macos` `menu-bar` `monitoring` `swift` |
+
 ## Writing
 
 | Repo | What it is | Keywords |
@@ -118,6 +133,7 @@ or a stack (`rust`, `python`, `vanilla-js`).
 | [originkit](https://github.com/vellum-ai/originkit) | Free library of 50 animated components, browsable and importable via MCP. | `components` `animation` `mcp` `typescript` |
 | [img2threejs](https://github.com/img2threejs/img2threejs) | Rebuilds the object in a reference image as a code-only, procedural, animation-ready Three.js model. Token-efficient image-to-3D. | `3d` `three-js` `image-to-3d` `procedural` `python` |
 | [awesome-design-md](https://github.com/voltagent/awesome-design-md) | DESIGN.md files distilled from popular brand design systems. Drop one into your project and coding agents generate a matching UI. | `design-systems` `ai-context` `agents` `curated` |
+| [design.md](https://github.com/google-labs-code/design.md) | Google Labs' format spec for describing a visual identity to coding agents: a persistent, structured understanding of a design system. Install: [skills.sh](https://skills.sh/google-labs-code/design.md). | `design-systems` `ai-context` `spec` `google-labs` |
 | [react-three-fiber](https://github.com/pmndrs/react-three-fiber) | A React renderer for Three.js. The standard way to do declarative 3D in React. | `3d` `three-js` `react` `webgl` |
 | [shadergradient](https://github.com/ruucm/shadergradient) | Beautiful moving gradients for Framer, Figma, and React. | `gradients` `shaders` `react` `figma` `animation` |
 | [liquid-glass-js](https://github.com/dashersw/liquid-glass-js) | Apple-inspired liquid glass UI effects library. | `glassmorphism` `effects` `ui` `vanilla-js` |
