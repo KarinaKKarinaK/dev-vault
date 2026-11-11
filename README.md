@@ -139,6 +139,7 @@ or a stack (`rust`, `python`, `vanilla-js`).
 | [shadergradient](https://github.com/ruucm/shadergradient) | Beautiful moving gradients for Framer, Figma, and React. | `gradients` `shaders` `react` `figma` `animation` |
 | [liquid-glass-js](https://github.com/dashersw/liquid-glass-js) | Apple-inspired liquid glass UI effects library. | `glassmorphism` `effects` `ui` `vanilla-js` |
 | [liquid-logo](https://github.com/collidingScopes/liquid-logo) | Free open source tool for animated logos with a liquid metal aesthetic, rendered real-time in the browser. | `logo` `animation` `liquid-metal` `browser` |
+| [Kitchen](https://github.com/LitenApe/Kitchen) | Headless, accessible React UI atoms (accordion, alert, backdrop, checkbox, field and more) with Storybook stories and tests. No license file, so use it as a pattern reference, do not copy code. | `react` `headless` `accessibility` `components` `storybook` |
 | [21st.dev](https://21st.dev/) | 12,000+ hand-crafted React and Tailwind components, templates, and shadcn themes. Preview live, install with one command, works for you and your AI agent. | `components` `react` `tailwind` `shadcn` `marketplace` |
 
 ## Design tools
